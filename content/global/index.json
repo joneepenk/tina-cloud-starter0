@@ -1,12 +1,12 @@
 {
   "header": {
     "icon": {
-      "name": "Tina",
+      "name": "BiAbacus",
       "color": "orange",
       "style": "float"
     },
-    "name": "Tina Starter",
-    "color": "default",
+    "name": "DinoGate  MLOps",
+    "color": "primary",
     "nav": [
       {
         "href": "",
